@@ -5,6 +5,7 @@ metadata:
   name: front-end
   labels:
     name: front-end
+    proba: probandovoy
 spec:
   type: LoadBalancer
   ports:
